@@ -1,4 +1,4 @@
-# Stock Management System
+# Inventory Management System
 
 ![Screenshot 1](images/Screenshot%20(26).png)
 
